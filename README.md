@@ -24,7 +24,12 @@
   <img src="https://github.com/nrmkarthi/DMN/blob/main/3.png" alt="Architecture of DMN" width="500" height="400">
   </p>
   
- 
+ <p align="center">
+<p>Data Availability Statement:</p>
+    <p>The dataset used in the study can be downloaded from the following link:</p>
+    <a href="https://www.unb.ca/cic/datasets/ids-2017.html">Download Dataset</a>
+
+  </p>
 
 
 ## Acknowledgement
