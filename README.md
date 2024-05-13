@@ -10,7 +10,7 @@
 
 
 
-## Proposed Architecture 
+##A Satellite View of Bus Stops Labelled in Tabuk Region
 <p align="center">
 <img src="https://github.com/nrmkarthi/DMN/blob/main/2.png" alt=". A Satellite View of Bus Stops Labelled in Tabuk Region" width="550" height="600">
 </p>
