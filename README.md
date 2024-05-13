@@ -4,7 +4,7 @@
 
 ## Proposed Architecture 
 <p align="center">
-<img src="https://github.com/nrmkarthi/DMN/1.png" alt="Pipeline of the Proposed Research Model" width="550" height="600">
+<img src="https://github.com/nrmkarthi/DMN/blob/main/1.png" alt="Pipeline of the Proposed Research Model" width="550" height="600">
 </p>
 
 
@@ -12,7 +12,7 @@
 
 ## Proposed Architecture 
 <p align="center">
-<img src="https://github.com/nrmkarthi/DMN/2.png" alt=". A Satellite View of Bus Stops Labelled in Tabuk Region" width="550" height="600">
+<img src="https://github.com/nrmkarthi/DMN/blob/main/2.png" alt=". A Satellite View of Bus Stops Labelled in Tabuk Region" width="550" height="600">
 </p>
 
 
@@ -21,7 +21,7 @@
   <b>Architecture of DMN</b>
   
   <p align="center">
-  <img src="https://github.com/nrmkarthi/DMN/3.png" alt="Architecture of DMN" width="500" height="400">
+  <img src="https://github.com/nrmkarthi/DMN/blob/main/3.png" alt="Architecture of DMN" width="500" height="400">
   </p>
   
  
